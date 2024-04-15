@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "BasierCircle";
+  src: local("BasierCircler"),
+    url("./fonts/BasierCircle-Regular.otf") format("otf");
+  font-weight: normal;
+}

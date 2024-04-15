@@ -1,0 +1,12 @@
+.App {
+  margin: 0;
+  padding: 50px 40px 0 40px;
+  box-sizing: border-box;
+  font-family: "BasierCircler", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 30px 20px 0 20px;
+  }
+}

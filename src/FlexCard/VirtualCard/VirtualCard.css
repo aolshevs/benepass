@@ -1,0 +1,57 @@
+.card {
+  background-image: url("/src/assets/cardBackground.svg");
+  border-radius: 20px;
+  margin: 20px 0;
+  color: #fff;
+  max-width: 392px;
+  max-height: 272px;
+  cursor: pointer;
+}
+
+.card-inner {
+  padding: 20px;
+  position: relative;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.virtual-pill {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.card-number {
+  font-size: 1.625rem;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.date-cvc {
+  font-size: 0.75rem;
+  margin-top: 20px;
+  justify-content: flex-start;
+  gap: 40px;
+}
+
+.date-cvc h2 {
+  font-size: 0.75rem;
+  color: #d3d2de;
+  margin-bottom: 0;
+}
+
+.date-cvc p {
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-top: 0;
+}
+
+.footer {
+  margin-top: 20px;
+  font-weight: 400;
+}
